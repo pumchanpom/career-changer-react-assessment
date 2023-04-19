@@ -1,4 +1,6 @@
 import { Link, Routes, Route } from 'react-router-dom';
+
+
 const Navbar = () => {
     return (
         <ul style={{listStyleType: "none", display: "flex", justifyContent: "flex-end", gap: "40px", fontSize: "20px", fontWeight: "700"}}>
